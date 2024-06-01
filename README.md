@@ -9,4 +9,4 @@
 <a href=""><strong>➥ Live Demo</strong></a>
 </div>
 <br>
-![preview img](/preview.png)
+<img src="/preview.png" alt="preview">
